@@ -2,7 +2,7 @@ import { ReactNode } from "react";
 import { motion } from "framer-motion";
 
 interface LayoutProps {
-  children: ReactNode; // Define children prop explicitly as ReactNode
+  children: ReactNode; 
 }
 
 const Layout: React.FC<LayoutProps> = ({ children }) => {

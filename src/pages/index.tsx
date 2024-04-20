@@ -1,4 +1,3 @@
-// pages/index.tsx
 import { useEffect } from "react";
 import Link from "next/link";
 import { useUsers } from "../hooks/useUser";

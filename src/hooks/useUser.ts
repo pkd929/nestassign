@@ -1,4 +1,3 @@
-// hooks/useUser.ts
 import useSWR from "swr";
 
 const fetcher = async (url: string) => {

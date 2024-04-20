@@ -1,4 +1,3 @@
-// components/UserList.tsx
 import { motion } from "framer-motion";
 import Link from "next/link";
 
